@@ -1,0 +1,2 @@
+I would like the "Keymap I want" in the .hex file type.  The "keymap Example" is what was provided by the support page from Keebwerk.
+The only changes that I made were on lines under the definition.  I believe everything else in the file is to allow the slider to function.
